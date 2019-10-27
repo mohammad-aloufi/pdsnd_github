@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+27/10/2019
 
 ### Project Title
-Replace the Project Title
+My project for the Udacity course
 
 ### Description
-Describe what your project is about and what it does
+It provides some useful data and stats on a company called bikeshare. This company rents bikes to people for trips to an other station or to the same station if the person  was looking for a ride. You can get the datasets from udacity. The datasets are for chicago, new york city, and washington.
 
 ### Files used
-Include the files used
+project.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used [this](https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python) to get help to get an idea on how to find the most frequent combination of start station and end station
 
+I also used the project template as well as some help from the practice solutions for project 3.
