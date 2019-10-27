@@ -1,4 +1,4 @@
-#This project provides some useful data and stats on a company called bikeshare. This company rents bikes to people for trips to an other station or to the same station if the person  was looking for a ride. You can get the datasets from udacity. The datasets are for chicago, new_york_city, and washington.
+#This project provides some useful data and stats on a company called bikeshare. This company rents bikes to people for trips to an other station or to the same station if the person  was looking for a ride. You can get the datasets from udacity. The datasets are for chicago, new york city, and washington.
 import time
 import pandas as pd
 import numpy as np
