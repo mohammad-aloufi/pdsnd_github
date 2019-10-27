@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+version=1.0
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -16,6 +16,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hi, welcome to the bikeshare data project.\nLets get started')
+    print('Version ', version)
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     global city
     city=''
